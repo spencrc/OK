@@ -1,5 +1,8 @@
 # OK
-OK is a visual alerts and stream viewer that can be hooked into existing cameras using existing standards, built for healthcare professionals.
+_The final commit made during Stormhacks 2026 can be found here: [`ae44ae0ce29a9fb7a884e8e27408cc47395f43f7`](https://github.com/Eddie-Yoshie/StormsHacks2026/tree/ae44ae0ce29a9fb7a884e8e27408cc47395f43f7)_
+
+## Description
+OK is provides visual alerts, provides audio alerts, and is a stream viewer that can be hooked into existing cameras via the RTSP protocol.
 
 *Why call it OK?*
 It looks like a person laying down!
